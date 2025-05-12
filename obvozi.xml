@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<nodes>
+  <node>
+    <Naslov>Linija 18 ima obvoz</Naslov>
+    <Obvoz-na-liniji>6</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-11-19T15:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-12-31T23:00</Konec-obvoza>
+    <Opis>Zaradi popolne prometne zapore na delu Verovškove ulice ima linija 18 od četrtka, 21. 11. 2024, od 9. ure do predvidoma ponedeljka, 23. 12. 2024 obvoz.
+
+Obvozna trasa: 
+
+Linija 18 nadaljuje po Litostrojski cesti, servisni cesti Severne obvoznice (redna trasa) in enako v obratni smeri. Začasno so ukinjena postajališča »I.C. Šiška«, »Tiki«, »Mostovna«, »Toplarna« in »Tovarna Lek« v obe smeri.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/14.11.obvoz_linije_18_litostrojska_verovskova_november_2024.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-18-ima-obvoz-3</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 5 ima obvoz</Naslov>
+    <Obvoz-na-liniji>5</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-10-01T08:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-10-15T20:00</Konec-obvoza>
+    <Opis>Zaradi del na cesti ima linija 5 obvoz od 1. do 15. oktobra 2024.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_5.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-5-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 12 ima obvoz</Naslov>
+    <Obvoz-na-liniji>12</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-09-10T06:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-09-20T22:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 12 zaradi gradbenih del.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_12.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-12-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 7 ima obvoz</Naslov>
+    <Obvoz-na-liniji>7</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-11-01T07:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-11-10T19:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 7 zaradi vzdrževalnih del.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_7.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-7-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 3 ima obvoz</Naslov>
+    <Obvoz-na-liniji>3</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-12-01T09:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-12-15T21:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 3 zaradi cestnih zapor.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_3.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-3-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 9 ima obvoz</Naslov>
+    <Obvoz-na-liniji>9</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-10-20T10:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-11-05T18:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 9 zaradi prometnih del.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_9.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-9-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 14 ima obvoz</Naslov>
+    <Obvoz-na-liniji>14</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-11-15T14:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-12-01T22:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 14 zaradi vzdrževalnih del.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_14.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-14-ima-obvoz</Pot>
+  </node>
+  <node>
+    <Naslov>Linija 20 ima obvoz</Naslov>
+    <Obvoz-na-liniji>20</Obvoz-na-liniji>
+    <Zacetek-obvoza>2024-12-05T08:00</Zacetek-obvoza>
+    <Konec-obvoza>2024-12-20T20:00</Konec-obvoza>
+    <Opis>Obvoz na liniji 20 zaradi cestnih del.</Opis>
+    <Slikovni-prikaz-obvoza>https://www.lpp.si/sites/www.jhl.si/files/obvozi-slike/obvoz_linije_20.jpg</Slikovni-prikaz-obvoza>
+    <Pot>https://www.lpp.si/obvoz/linija-20-ima-obvoz</Pot>
+  </node>
+</nodes>
