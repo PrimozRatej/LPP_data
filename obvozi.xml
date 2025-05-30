@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <nodes>
   <node>
-    <Naslov>Linija 18 ima obvoz</Naslov>
-    <Obvoz-na-liniji>6</Obvoz-na-liniji>
+    <Naslov>Linije 1B, N1 in 8</Naslov>
+    <Obvoz-na-liniji>1B, 8, N1</Obvoz-na-liniji>
     <Zacetek-obvoza>2024-11-19T15:00</Zacetek-obvoza>
     <Konec-obvoza>2024-12-31T23:00</Konec-obvoza>
     <Opis>Zaradi popolne prometne zapore na delu Verovškove ulice ima linija 18 od četrtka, 21. 11. 2024, od 9. ure do predvidoma ponedeljka, 23. 12. 2024 obvoz.
